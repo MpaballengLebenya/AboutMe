@@ -1,0 +1,54 @@
+img{
+    display: block;
+      margin-left: auto;
+     margin-right: auto;
+     padding: 5px;
+ }
+h1{
+    text-align: center;
+    background-color: azure;
+    font-style: italic;
+
+}
+p{
+    text-align: center;
+
+
+}
+body{
+    background-color: bisque;
+    width: 500px;
+    height: 400px;
+    overflow: hidden;
+    display: block;
+
+}
+footer{
+    text-align: center;
+    background-color: azure;
+    font-style: italic;
+
+}
+#projects{
+    text-align: center;
+    background-color: azure;
+    font-style: italic; 
+}
+#skill{
+    
+
+}
+#progress{
+    width: 40px;
+height:80px;
+
+}
+h2{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: bisque;
+    position: relative;
+}
+.skill{
+   margin: 20px;
+}
